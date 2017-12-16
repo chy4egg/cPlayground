@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Aleksandr/projects/cPlayground/main.cpp
+iostream
+-
+password_app.cpp
+/Users/Aleksandr/projects/cPlayground/password_app.cpp
+
+/Users/Aleksandr/projects/cPlayground/password_app.cpp
+string
+-
+
